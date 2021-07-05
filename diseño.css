@@ -1,0 +1,77 @@
+body{font-family: "Merriweather", serif; Color:#F0EBCC; background-color: #0A1D37; text-align:center; margin:0px;font-family: verdana, sans-serif; }
+h1 {font-family: "Merriweather", serif;  width:10%;margin:0 auto 0}
+h2 {font-family: "Merriweather", serif;  width:10%;margin:0 auto 0}
+h3{font-family: "Merriweather"; text-align: center}
+hr{border:dotted #77ACF1 6px; border-bottom: none; width:10%; margin:100px auto
+
+}
+h4{ margin: 50px auto 20px }
+.contact-me {width:40%;margin:40px auto 60px}
+.intro {width:30%;margin:auto}
+.topbox {height:400px;padding-top: 100px; background-color: #77ACF1; position:relative;}
+
+.mountain {bottom:0px;right:200px; position:absolute}
+.nube {top:40px;left:550px; position:absolute;}
+.cloud-bottom {right:900px; position:absolute;}
+.ale {bottom:0px;left:10px; position:absolute;}
+.n {top:100px;left:300px; position:absolute;}
+.u {top:50px;left:800px; position:absolute;}
+.b {top:100px;left:1200px; position:absolute;}
+.e {top:200px;left:1500px; position:absolute;}
+.moon {height: 150px; width:150px; top:50px;right:1350px; position:absolute;}
+.bat {height:100px; width:100px; bottom:300px;left:1200px; position:absolute;}
+.al {color:#F0EBCC}
+.middle-container {margin: 100px 0;  background-color: #0A1D37}
+.bottom-container {background-color: #77ACF1; padding: 50px 0 20px}
+.skill-row {width:40%;margin:80px auto 100px auto;}
+.redaccion {float:left; margin-right: 30px}
+.foto {float:right; margin-left: 30px}
+.rp {float:left; margin-right: 30px;}
+.cm {float:right; margin-left: 30px}
+.pm {float:left; margin-right: 30px}
+
+.BUTTON_QCR {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: "Merriweather", sans-serif;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #FFFFFF;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_QCR:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+a{font-family: "Merriweather"; color:#FAF1E6; margin: 10px 20px; text-decoration: none
+
+}
+.contacto{margin:auto}
+a:hover {color: #04009A}
+.Al {color: #0A1D37; font-size: .75rem}
